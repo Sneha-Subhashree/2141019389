@@ -37,17 +37,17 @@ Capstones
 
 LOS
 
-2141019389_Task_1-6
-
-2141019389_LOS_Task - 5(Github tutorial)
-
-2141019389_LOS_Task - 4(git)
-
 2141019389_LOS_Assignment - 1
 
 2141019389_LOS(git)_Assignment - 2
 
 2141019389_LOS(Git)_Assignment - 3
+
+2141019389_Task_1 - 6
+
+2141019389_LOS_Task - 4 (Portfolio)
+
+2141019389_LOS_Task - 5(Github tutorial)
 
 -----------------------------------------------------------------------
 
